@@ -26,7 +26,7 @@ Check out the live demo of the Online Turf Booking App: https://turfz-5834b.web.
 Follow these steps to set up the project on your local machine:
 
 1. Clone this repository: `https://github.com/Joel-K-James/Turfz.git`
-2. Navigate to the project directory: `cd turfz`
+2. Navigate to the project directory: `cd Turfz`
 3. Install dependencies: `npm install`
 
 ## Usage
